@@ -14,3 +14,4 @@ steps:
   - 'us-west1-docker.pkg.dev/qwiklabs-gcp-04-56c502006c80/my-repository/hello-cloudbuild:v1.0'
 options:
   logging: CLOUD_LOGGING_ONLY
+# force clear cache v2
